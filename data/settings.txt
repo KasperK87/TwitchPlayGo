@@ -1,0 +1,5 @@
+username: myUsername
+password: oauth:xxxxxxxxxxxxxxxxxxxxxxxx
+channel: #channalname
+irc: irc.twitch.tv
+port: 6667
