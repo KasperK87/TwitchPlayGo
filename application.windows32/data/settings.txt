@@ -1,0 +1,5 @@
+username: twitchplaybaduk
+password: oauth:hwrn1eaudfufrqwjvi8kjt86vpatba
+channel: #gobanikus
+irc: irc.twitch.tv
+port: 6667
