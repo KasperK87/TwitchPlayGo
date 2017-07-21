@@ -1,5 +1,5 @@
-username: twitchplaybaduk
-password: oauth:hwrn1eaudfufrqwjvi8kjt86vpatba
-channel: #gobanikus
+username: myusername
+password: oauth:xxxxxxxxxxxxxxxxxxxxxxxxxx
+channel: #mychannel
 irc: irc.twitch.tv
 port: 6667
