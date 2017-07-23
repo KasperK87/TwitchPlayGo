@@ -74,6 +74,7 @@ class TwitchGoBot extends PircBot {
       String msg;
       msg = message.replaceAll("!","");
       
+      if (msg.length() <= 3)
       if (!votedUsers.contains(sender))
       for (int i = 0; i < points.length; i++){
         if (msg.equalsIgnoreCase(points[i])) {
